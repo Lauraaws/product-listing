@@ -102,7 +102,7 @@ function App() {
           </Paper>
         ) : (
           <Paper elevation={0} sx={{ bgcolor: 'transparent' }}>
-            <BlogPage />
+            <BlogPage onNavigateToProducts={() => handleNavigation('products')} />
           </Paper>
         )}
       </Container>
