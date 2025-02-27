@@ -33,7 +33,7 @@ const ProductCard = styled(Card)(({ theme }) => ({
   },
 }));
 
-const ProductImage = styled(CardMedia)(({ theme }) => ({
+const ProductImage = styled(CardMedia)(({  }) => ({
   height: 200,
   backgroundSize: 'contain',
   backgroundPosition: 'center',
@@ -236,6 +236,7 @@ function App() {
   
   // Handle page change
   const handlePageChange = (event: React.ChangeEvent<unknown>, value: number) => {
+    console.log(event);
     setPage(value);
     // Scroll to top when page changes
     window.scrollTo({ top: 0, behavior: 'smooth' });
