@@ -138,7 +138,7 @@ const allProducts = [
   {
     id: 4,
     name: "Pet MD Topical Wipes for Cleansing",
-    description: "",
+    description: "These premoisetened wipes deodorize and help relieve both main causes of infections like hot spots, redness, and acne in pets. They are great for superficial cuts, abrasions and insect bites. Perfect for between baths and easier than shampoo.",
     image: "../src/assets/img/petMDWipes.png",
     rating: 4.5,
     categories: ["Pet Supplies", "Dog Grooming Wipes"],
@@ -147,7 +147,7 @@ const allProducts = [
   {
     id: 5,
     name: "Natural Dog Company Wrinkle Wipes",
-    description: "",
+    description: "These plant based herbal pet wipes are perfect to treat, heal, and protect your pup's wrinkles. They are easy to use and were made to treat common wrinkly dog concerns like skinfold dermatitis, yeast and bacterial infections.Formulated with no artificial preservatives or harmful ingredients. Nourishing ingredients include Shea butter, Rosemary Extract, and Calendula",
     image: "../src/assets/img/naturalDogCompanyWipes.png",
     rating: 4.4,
     categories: ["Pet Supplies", "Dog Grooming Wipes"],
@@ -156,7 +156,7 @@ const allProducts = [
   {
     id: 6,
     name: "Wrinkle Paste and Wipes for Bulldogs",
-    description: "",
+    description: "These dog wrinkle wipes soothe and protect delicate skin folds, keeping your pup comfortable. The wrinkle paste for Frenchies is easy to apply, ensuring a mess-free experience. The wrinkle wipes soothe and protect delicate skin folds, keeping your pup comfortable",
     image: "../src/assets/img/twoPetsWrinklePadsYellow.png",
     rating: 4.4,
     categories: ["Pet Supplies", "Dog Grooming Wipes"],
@@ -165,7 +165,7 @@ const allProducts = [
   {
     id: 7,
     name: "Dog Wrinkle Cream for Bulldogs & Frenchies",
-    description: "",
+    description: "The dog wrinkle cream provides advanced skincare for wrinkly pups with sensitive skin. It is deeply moisturizing and helps sooth itching, dryness and irritation. We used a gentle, hypoallergenic formula with an easy-to-use design.",
     image: "../src/assets/img/yibesiWrinklePaste.png",
     rating: 4.8,
     categories: ["Pet Supplies", "Dog Itch Remedies"],
@@ -174,7 +174,7 @@ const allProducts = [
   {
     id: 8,
     name: "Natural Dog Company Wrinkle Balm",
-    description: "",
+    description: "Formulated with lick-safe ingredients including: Shea Butter for moisture, Candelilla Wax for quick absorption, Jojoba Oil for antioxidants, and Hempseed Oil to support skin comfort. Designed for French Bulldogs, Pugs, English Bulldogs, and other breeds prone to skin folds.",
     image: "../src/assets/img/naturalDogCompanyBalm.png",
     rating: 4.5,
     categories: ["Pet Supplies", "Dog Itch Remedies"],
@@ -183,7 +183,7 @@ const allProducts = [
   {
     id: 9,
     name: "Natural Dog Company Wrinkle Balm Stick",
-    description: "",
+    description: "Easy to apply and take with you! This balm stick is formulated with lick-safe ingredients including: Shea Butter for moisture, Candelilla Wax for quick absorption, Jojoba Oil for antioxidants, and Hempseed Oil to support skin comfort. Designed for French Bulldogs, Pugs, English Bulldogs, and other breeds prone to skin folds.",
     image: "../src/assets/img/naturalDogCompanyBalm2.png",
     rating: 4.5,
     categories: ["Pet Supplies", "Dog Itch Remedies"],
@@ -192,16 +192,16 @@ const allProducts = [
   {
     id: 10,
     name: "Squishface Flexible Silicone Dog Wrinkle Paste Applicator",
-    description: "",
+    description: "This applicator is perfect for hard to reach areas, while keeping your hands and fingernails clean and protecting your pup against those sharp fingernails. It features a suction cup for easy and sanitary storage. Perfect for applying paste to dogs such as English Bulldogs, French Bulldogs, Pugs, Shar Peis, Neapolitan Mastiffs, Bloodhounds, Dogue de Bordeaux, Bullmastiffs, Frenchies, Basset Hounds, Pomeranians, Shih-tzus, Maltese, Poodles, Westies, Bichon Frises, Coton de Tulears, Bologneses, and more!",
     image: "../src/assets/img/squishfaceApplicator.png",
     rating: 4.4,
     categories: ["Pet Supplies", "Dog Eye Care"],
     affiliateLink: () => window.open("https://www.amazon.com/Squishface-Flexible-Silicone-Wrinkle-Applicator/dp/B09XY4PDRJ/ref=sr_1_12?crid=WTB8SH12YZX0&dib=eyJ2IjoiMSJ9.ayY8rDUym3c5DEtqUxodiV6s_ZDCk_y8723fsLEF4XX953JNlGbHrALm-TPWCkBNWo2JZU9BO_-dC7Q2qphNhq0qKzibAZZWBoEd4ucesmSrvL8uq6l5dbxEEwIU-mhzSpT4GibV25iabGKSlgz9QTbifnMQYUrwH4n84Da-Vc9clIc9ngedKWJTrqm8tKDrTsSalCpS1YFsOWWxSv559Gb4KLItrBtx59fGbqSUlQ2JekgYauH3MjDEUnywql5wUs4F8UnR7RwFCt2DDYoqBfFwf-RQ00E1qTcqaV0Uwa6fiKnKKI37gmw6TC3G9E1TL5cgp2rDtHGgIfyMDs-r7x3ADkcuCNCN8Z-0C5WDTt8.Znp3vzSsNQ-Ag0FqDLthpKtJTYzmYrVCjcmLzZFdkvA&dib_tag=se&keywords=french+bulldog+wrinkle&qid=1740590890&s=pet-supplies&sprefix=french+bulldog+wrinkle%2Cpets%2C238&sr=1-12", "_blank", "noopener,noreferrer"),
   },
-  {
+   {
     id: 11,
     name: "Eye Envy Bulldog Wrinkle Cleaner & Nose Care Kit",
-    description: "",
+    description: "A complete care kit for bulldogs, treating skin issues between folds, tear stains and chapped, dry noses. Contains four products: Bulldog Wrinkle Wipes 60 count, Tear Stain Remover Powder .5 oz, ProPowder Applicator Brush, and On The Nose Balm .5oz. Ideal for flat-faced breeds such as English Bulldogs, French Bulldogs, Mastiffs, Pugs, etc.",
     image: "../src/assets/img/envyEyeWinkleCareKit.png",
     rating: 4.6,
     categories: ["Pet Supplies", "Dog Itch Remedies"],
@@ -210,7 +210,7 @@ const allProducts = [
   {
     id: 12,
     name: "Natural Dog Company Oatmeal Shampoo",
-    description: "",
+    description: "This shampoo tackles itching, flaking, and dryness, promoting a healthier and happier dog. All natural ingredients: Colloidal Oatmeal for soothing and moisturizing, Aloe Vera known for its healing properties, Manuka Honey with antibacterial benefits, Coconut Oil for deep hydration, and Chamomile Extract for calming and relaxing.",
     image: "../src/assets/img/naturalDogCompanyShampoo.png",
     rating: 4.5,
     categories: ["Pet Supplies", "Dog Shampoos"],
