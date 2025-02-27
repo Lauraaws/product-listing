@@ -33,11 +33,11 @@ const ProductCard = styled(Card)(({ theme }) => ({
   },
 }));
 
-const ProductImage = styled(CardMedia)(({  }) => ({
+const ProductImage = styled(CardMedia) ({
   height: 200,
   backgroundSize: 'contain',
   backgroundPosition: 'center',
-}));
+});
 
 const ProductContent = styled(CardContent)(({ theme }) => ({
   padding: theme.spacing(2),
