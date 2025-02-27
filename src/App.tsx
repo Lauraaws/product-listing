@@ -10,14 +10,11 @@ import {
   Rating, 
   Chip, 
   Button, 
-  Divider,
   AppBar,
   Toolbar,
   Pagination
 } from "@mui/material";
 import ShoppingCartIcon from "@mui/icons-material/ShoppingCart";
-import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
-import StorefrontIcon from "@mui/icons-material/Storefront";
 import { styled } from "@mui/material/styles";
 import { useState } from "react";
 
@@ -114,7 +111,7 @@ const allProducts = [
   {
     id: 1,
     name: "Wrinkle Wipes for Dogs",
-    description: "Transform your home entertainment with our 55-inch Ultra HD Smart TV. Featuring vibrant 4K resolution, HDR technology, and built-in streaming apps. Voice control and slim bezel design make it the perfect centerpiece for any living room.",
+    description: "These dog wipes are perfect for wrinkly dogs. Their formula and ingredients are designed to gently clean, deodorize wrinkles and folds while helping sooth your dogs wrinkles. The wipes are easy to apply into the fold creases.",
     image: "../src/assets/img/barkosWrinkleWipes.png",
     rating: 4.6,
     categories: ["Pet Supplies", "Dog Grooming Wipes"],
@@ -123,7 +120,7 @@ const allProducts = [
   {
     id: 2,
     name: "Squishface Wrinkle Wipes",
-    description: "Track your fitness goals with precision using our advanced smart watch. Monitor heart rate, sleep patterns, and activity levels while staying connected with notifications and music control. Water-resistant up to 50 meters.",
+    description: "These wrinkle wips are great for wrinkly dogs including: English Bulldog, Pugs, Frenchie, Bulldogs, French Bulldogs & many more. Each wipe is 5 inches by 7 inches. They deodorize and can help remove tear stains.",
     image: "../src/assets/img/squishfaceWinkleWipes.png",
     rating: 4.5,
     categories: ["Pet Supplies", "Dog Grooming Wipes"],
@@ -132,7 +129,7 @@ const allProducts = [
   {
     id: 3,
     name: "Petpost Bulldog Wrinkle Wipes",
-    description: "Hit the trails with our durable yet lightweight hiking backpack. Featuring multiple compartments, hydration reservoir compatibility, and ergonomic shoulder straps with breathable padding. Water-resistant material keeps your gear dry.",
+    description: "Bulldog wrinkle wipes make it easier to remove dirt and gunk from your wrinkly dog. Made in the USA by an environmentally conscious pet company! We use all naturally derived ingredients and recyclable packaging and actively seek ways to reduce our footprint.",
     image: "../src/assets/img/petPostWrinkleWipes.png",
     rating: 4.5,
     categories: ["Pet Supplies", "Dog Grooming Wipes"],
@@ -141,7 +138,7 @@ const allProducts = [
   {
     id: 4,
     name: "Pet MD Topical Wipes for Cleansing",
-    description: "Brew barista-quality coffee at home with our programmable coffee maker. Features customizable brew strength, built-in grinder, and thermal carafe to keep your coffee hot for hours without burning. Makes up to 12 cups.",
+    description: "",
     image: "../src/assets/img/petMDWipes.png",
     rating: 4.5,
     categories: ["Pet Supplies", "Dog Grooming Wipes"],
@@ -150,7 +147,7 @@ const allProducts = [
   {
     id: 5,
     name: "Natural Dog Company Wrinkle Wipes",
-    description: "Track your fitness goals with precision using our advanced smart watch. Monitor heart rate, sleep patterns, and activity levels while staying connected with notifications and music control. Water-resistant up to 50 meters.",
+    description: "",
     image: "../src/assets/img/naturalDogCompanyWipes.png",
     rating: 4.4,
     categories: ["Pet Supplies", "Dog Grooming Wipes"],
@@ -159,7 +156,7 @@ const allProducts = [
   {
     id: 6,
     name: "Wrinkle Paste and Wipes for Bulldogs",
-    description: "An Interactive Cat Toys for Indoor Cats. It moves quickly on thick carpets, thin carpets, and hard floors. It is motion activated and rechargeable.",
+    description: "",
     image: "../src/assets/img/twoPetsWrinklePadsYellow.png",
     rating: 4.4,
     categories: ["Pet Supplies", "Dog Grooming Wipes"],
@@ -168,7 +165,7 @@ const allProducts = [
   {
     id: 7,
     name: "Dog Wrinkle Cream for Bulldogs & Frenchies",
-    description: "Elevate your cooking with our premium 10-piece stainless steel cookware set. Featuring tri-ply construction for even heat distribution, stay-cool handles, and oven-safe up to 500°F. Dishwasher safe for easy cleanup.",
+    description: "",
     image: "../src/assets/img/yibesiWrinklePaste.png",
     rating: 4.8,
     categories: ["Pet Supplies", "Dog Itch Remedies"],
@@ -177,7 +174,7 @@ const allProducts = [
   {
     id: 8,
     name: "Natural Dog Company Wrinkle Balm",
-    description: "Work in comfort with our ergonomically designed office chair. Featuring adjustable lumbar support, breathable mesh back, and customizable armrests to reduce strain during long work sessions. Supports up to 300 pounds.",
+    description: "",
     image: "../src/assets/img/naturalDogCompanyBalm.png",
     rating: 4.5,
     categories: ["Pet Supplies", "Dog Itch Remedies"],
@@ -186,7 +183,7 @@ const allProducts = [
   {
     id: 9,
     name: "Natural Dog Company Wrinkle Balm Stick",
-    description: "Take your music anywhere with our waterproof Bluetooth speaker. Delivering rich, immersive sound in a compact package with 20-hour battery life. Perfect for beach days, camping trips, or backyard gatherings.",
+    description: "",
     image: "../src/assets/img/naturalDogCompanyBalm2.png",
     rating: 4.5,
     categories: ["Pet Supplies", "Dog Itch Remedies"],
@@ -195,7 +192,7 @@ const allProducts = [
   {
     id: 10,
     name: "Squishface Flexible Silicone Dog Wrinkle Paste Applicator",
-    description: "Sleep in luxury with our 100% organic cotton bedding set. Includes a duvet cover, fitted sheet, and two pillowcases in a breathable 400 thread count weave. Hypoallergenic and sustainably sourced for eco-conscious comfort.",
+    description: "",
     image: "../src/assets/img/squishfaceApplicator.png",
     rating: 4.4,
     categories: ["Pet Supplies", "Dog Eye Care"],
@@ -204,7 +201,7 @@ const allProducts = [
   {
     id: 11,
     name: "Eye Envy Bulldog Wrinkle Cleaner & Nose Care Kit",
-    description: "Elevate your culinary skills with our premium 8-piece chef knife set. Crafted from high-carbon stainless steel with ergonomic handles for precision cutting. Includes chef knife, bread knife, santoku, utility knife, and more in a stylish wooden block.",
+    description: "",
     image: "../src/assets/img/envyEyeWinkleCareKit.png",
     rating: 4.6,
     categories: ["Pet Supplies", "Dog Itch Remedies"],
@@ -213,7 +210,7 @@ const allProducts = [
   {
     id: 12,
     name: "Natural Dog Company Oatmeal Shampoo",
-    description: "Work in comfort with our ergonomically designed office chair. Featuring adjustable lumbar support, breathable mesh back, and customizable armrests to reduce strain during long work sessions. Supports up to 300 pounds.",
+    description: "",
     image: "../src/assets/img/naturalDogCompanyShampoo.png",
     rating: 4.5,
     categories: ["Pet Supplies", "Dog Shampoos"],
