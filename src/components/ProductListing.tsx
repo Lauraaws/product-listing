@@ -113,7 +113,7 @@ import {
       image: "/barkosWrinkleWipes.png",
       rating: 4.6,
       categories: ["Pet Supplies", "Dog Grooming Wipes"],
-      affiliateLink: () => window.open("https://www.amazon.com/Barkos-Pet-Supplies-Wrinkles-Anti-Itch/dp/B09NF82RSY/ref=sr_1_28?crid=WTB8SH12YZX0&dib=eyJ2IjoiMSJ9.ayY8rDUym3c5DEtqUxodiV6s_ZDCk_y8723fsLEF4XX953JNlGbHrALm-TPWCkBNWo2JZU9BO_-dC7Q2qphNhq0qKzibAZZWBoEd4ucesmSrvL8uq6l5dbxEEwIU-mhzSpT4GibV25iabGKSlgz9QTbifnMQYUrwH4n84Da-Vc9clIc9ngedKWJTrqm8tKDrTsSalCpS1YFsOWWxSv559Gb4KLItrBtx59fGbqSUlQ2JekgYauH3MjDEUnywql5wUs4F8UnR7RwFCt2DDYoqBfFwf-RQ00E1qTcqaV0Uwa6fiKnKKI37gmw6TC3G9E1TL5cgp2rDtHGgIfyMDs-r7x3ADkcuCNCN8Z-0C5WDTt8.Znp3vzSsNQ-Ag0FqDLthpKtJTYzmYrVCjcmLzZFdkvA&dib_tag=se&keywords=french+bulldog+wrinkle&qid=1740590890&s=pet-supplies&sprefix=french+bulldog+wrinkle%2Cpets%2C238&sr=1-28", "_blank", "noopener,noreferrer"),
+      affiliateLink: () => window.open("https://amzn.to/4bqAhtT", "_blank", "noopener,noreferrer"),
     },
     {
       id: 2,
@@ -122,7 +122,7 @@ import {
       image: "/squishfaceWinkleWipes.png",
       rating: 4.5,
       categories: ["Pet Supplies", "Dog Grooming Wipes"],
-      affiliateLink: () => window.open("https://www.amazon.com/Squishface-Wrinkle-Wipes/dp/B073HFC82B/ref=sr_1_7?crid=P7KG5P35Y9EJ&dib=eyJ2IjoiMSJ9.yAwpQQtils3_-l59zRId-TExm2KRdI2sQAckqa1rMe_PQwRzhZiabVwwXB3j80lZUvef_DytrQbaOherTpBLa3CaBozwwM5usud83wdZpFFHUw_tDa7ecARD308PsAKPHTawaqCI0vo1867MBPcpIMrdigdVkVAKR5Bpv6uDiqjc6nCHjQY0JbqfIUcOGvl5CUGE5RUogsPOJtT0eW6V9L5EryYjH4DMkNZMAVn6TZOCnvoGOjJWOjFVQ3PwcCKuIXoqcykJmswadtw2H7T5FVy938nS1PL5EUpY6zkqxNNIGwPKY8yHwlK5l1IcL8HVptjlkR8cki7rbVCe1PCu1sopqcvVCMCETLz_4atkfGio8mR5iUC2LxWrwC9_wttTSD9na4_3p1hAm234nsjldAV81mo4B11ToeZHFhhmYBP30ux9kySkZt53SddhJjfO.WG41SPNDrQRc8EAisEL6j0ntxYYJNI8Rk8wk4icJ9nY&dib_tag=se&keywords=french+bulldog+wrinkle&qid=1740586788&sprefix=french+bulldog+wrinkle%2Caps%2C140&sr=8-7", "_blank", "noopener,noreferrer"),
+      affiliateLink: () => window.open("https://amzn.to/4hZprxj", "_blank", "noopener,noreferrer"),
     },
     {
       id: 3,
@@ -131,7 +131,7 @@ import {
       image: "/petPostWrinkleWipes.png",
       rating: 4.5,
       categories: ["Pet Supplies", "Dog Grooming Wipes"],
-      affiliateLink: () => window.open("https://www.amazon.com/Petpost-Bulldog-Wrinkle-Wipes-Dogs/dp/B07DRFTY4N/ref=sr_1_3_sspa?crid=ISGWZZZJNSXQ&dib=eyJ2IjoiMSJ9.euDaHRQfXyprBP2XXla0Of9lMp2en5NqEMq15QA2P0bPQwRzhZiabVwwXB3j80lZUvef_DytrQbaOherTpBLa3CaBozwwM5usud83wdZpFGrvL8uq6l5dbxEEwIU-mhzSpT4GibV25iabGKSlgz9QT8sr6FypKRtzUZaNScGHUa8kPnj3gCkaOMTJhRhLRhgM3iAL6Ckoo8o3dvX_DiOrHbMVBzzciqNFF7xmKtNgky5xoQQrvB1v3RtR4d6GE-3bKTC1aw_AGg_ZSzjgo1CmWhoIPFF47GHlFq_hnH70ro.lv4E80-1PoowiXerd42aRLhgaiWTMmC0BtteUC4f-3c&dib_tag=se&keywords=french%2Bbulldog%2Bwrinkle&qid=1740590007&rdc=1&s=pet-supplies&sprefix=french%2Bbulldog%2Bwrinkle%2Cpets%2C271&sr=1-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1", "_blank", "noopener,noreferrer"),
+      affiliateLink: () => window.open("https://amzn.to/41DNR9Z", "_blank", "noopener,noreferrer"),
     },
     {
       id: 4,
@@ -140,7 +140,7 @@ import {
       image: "/petMDWipes.png",
       rating: 4.5,
       categories: ["Pet Supplies", "Dog Grooming Wipes"],
-      affiliateLink: () => window.open("https://www.amazon.com/dp/B0180A1J38/ref=sspa_dk_detail_7?psc=1&pf_rd_p=f2f1cf8f-cab4-44dc-82ba-0ca811fb90cc&pf_rd_r=0Z3FX4TJ7YBWN3Z8QZC8&pd_rd_wg=sVBk5&pd_rd_w=eklbx&content-id=amzn1.sym.f2f1cf8f-cab4-44dc-82ba-0ca811fb90cc&pd_rd_r=c623e574-9606-43ae-a90f-a46c372b2fc1&s=pet-supplies&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM#productDetails", "_blank", "noopener,noreferrer"),
+      affiliateLink: () => window.open("https://amzn.to/41IdFkn", "_blank", "noopener,noreferrer"),
     },
     {
       id: 5,
@@ -149,7 +149,7 @@ import {
       image: "/naturalDogCompanyWipes.png",
       rating: 4.4,
       categories: ["Pet Supplies", "Dog Grooming Wipes"],
-      affiliateLink: () => window.open("https://www.amazon.com/Natural-Dog-Company-Wrinkle-Wipes/dp/B09VCGKFMH/ref=sr_1_9?crid=P7KG5P35Y9EJ&dib=eyJ2IjoiMSJ9.yAwpQQtils3_-l59zRId-TExm2KRdI2sQAckqa1rMe_PQwRzhZiabVwwXB3j80lZUvef_DytrQbaOherTpBLa3CaBozwwM5usud83wdZpFFHUw_tDa7ecARD308PsAKPHTawaqCI0vo1867MBPcpIMrdigdVkVAKR5Bpv6uDiqjc6nCHjQY0JbqfIUcOGvl5CUGE5RUogsPOJtT0eW6V9L5EryYjH4DMkNZMAVn6TZOCnvoGOjJWOjFVQ3PwcCKuIXoqcykJmswadtw2H7T5FVy938nS1PL5EUpY6zkqxNNIGwPKY8yHwlK5l1IcL8HVptjlkR8cki7rbVCe1PCu1sopqcvVCMCETLz_4atkfGio8mR5iUC2LxWrwC9_wttTSD9na4_3p1hAm234nsjldAV81mo4B11ToeZHFhhmYBP30ux9kySkZt53SddhJjfO.WG41SPNDrQRc8EAisEL6j0ntxYYJNI8Rk8wk4icJ9nY&dib_tag=se&keywords=french%2Bbulldog%2Bwrinkle&qid=1740586788&sprefix=french%2Bbulldog%2Bwrinkle%2Caps%2C140&sr=8-9&th=1", "_blank", "noopener,noreferrer"),
+      affiliateLink: () => window.open("https://amzn.to/3QDKcmt", "_blank", "noopener,noreferrer"),
     },
     {
       id: 6,
@@ -158,7 +158,7 @@ import {
       image: "/twoPetsWrinklePadsYellow.png",
       rating: 4.4,
       categories: ["Pet Supplies", "Dog Grooming Wipes"],
-      affiliateLink: () => window.open("https://www.amazon.com/Wrinkle-Bulldog-Frenchie-Dog-USA-Bulldog-Cleaning/dp/B09N42JRJM/ref=sr_1_1_sspa?crid=P7KG5P35Y9EJ&dib=eyJ2IjoiMSJ9.yAwpQQtils3_-l59zRId-TExm2KRdI2sQAckqa1rMe_PQwRzhZiabVwwXB3j80lZUvef_DytrQbaOherTpBLa3CaBozwwM5usud83wdZpFFHUw_tDa7ecARD308PsAKPHTawaqCI0vo1867MBPcpIMrdigdVkVAKR5Bpv6uDiqjc6nCHjQY0JbqfIUcOGvl5CUGE5RUogsPOJtT0eW6V9L5EryYjH4DMkNZMAVn6TZOCnvoGOjJWOjFVQ3PwcCKuIXoqcykJmswadtw2H7T5FXddOr2T-aqOm0F5NVfsmc4.cWDJX99jYct3v_jV975lb1FQU3ZMtQ0RLaAgHRCUj3Q&dib_tag=se&keywords=french%2Bbulldog%2Bwrinkle&qid=1740586788&rdc=1&sprefix=french%2Bbulldog%2Bwrinkle%2Caps%2C140&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1", "_blank", "noopener,noreferrer"),
+      affiliateLink: () => window.open("https://amzn.to/3QGNOUA", "_blank", "noopener,noreferrer"),
     },
     {
       id: 7,
@@ -167,7 +167,7 @@ import {
       image: "/yibesiWrinklePaste.png",
       rating: 4.8,
       categories: ["Pet Supplies", "Dog Itch Remedies"],
-      affiliateLink: () => window.open("https://www.amazon.com/dp/B0DD7BC3TS/ref=sspa_dk_detail_4?psc=1&pf_rd_p=f2f1cf8f-cab4-44dc-82ba-0ca811fb90cc&pf_rd_r=0Z3FX4TJ7YBWN3Z8QZC8&pd_rd_wg=sVBk5&pd_rd_w=eklbx&content-id=amzn1.sym.f2f1cf8f-cab4-44dc-82ba-0ca811fb90cc&pd_rd_r=c623e574-9606-43ae-a90f-a46c372b2fc1&s=pet-supplies&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM", "_blank", "noopener,noreferrer"),
+      affiliateLink: () => window.open("https://amzn.to/4idFzLK", "_blank", "noopener,noreferrer"),
     },
     {
       id: 8,
@@ -176,7 +176,7 @@ import {
       image: "/naturalDogCompanyBalm.png",
       rating: 4.5,
       categories: ["Pet Supplies", "Dog Itch Remedies"],
-      affiliateLink: () => window.open("https://www.amazon.com/Natural-Dog-Company-All-Natural-Veterinarian-Approved/dp/B09BKYJP9Y/ref=sxin_16_pa_sp_search_thematic_sspa?content-id=amzn1.sym.c5787da2-212d-48eb-a894-9ea5a87adeb3%3Aamzn1.sym.c5787da2-212d-48eb-a894-9ea5a87adeb3&crid=P7KG5P35Y9EJ&cv_ct_cx=french%2Bbulldog%2Bwrinkle&keywords=french%2Bbulldog%2Bwrinkle&pd_rd_i=B09BKYJP9Y&pd_rd_r=d5389a41-feda-408c-bbd2-f6ad277c8e5d&pd_rd_w=GzNlw&pd_rd_wg=8sKnG&pf_rd_p=c5787da2-212d-48eb-a894-9ea5a87adeb3&pf_rd_r=Y599A1BJXTMPTQ03GKCV&qid=1740586788&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=french%2Bbulldog%2Bwrinkle%2Caps%2C140&sr=1-3-6024b2a3-78e4-4fed-8fed-e1613be3bcce-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&th=1", "_blank", "noopener,noreferrer"),
+      affiliateLink: () => window.open("https://amzn.to/4i24amK", "_blank", "noopener,noreferrer"),
     },
     {
       id: 9,
@@ -185,7 +185,7 @@ import {
       image: "/naturalDogCompanyBalm2.png",
       rating: 4.5,
       categories: ["Pet Supplies", "Dog Itch Remedies"],
-      affiliateLink: () => window.open("https://www.amazon.com/dp/B07CJNZLFM/ref=sspa_dk_detail_0?pf_rd_p=f2f1cf8f-cab4-44dc-82ba-0ca811fb90cc&pf_rd_r=0Z3FX4TJ7YBWN3Z8QZC8&pd_rd_wg=sVBk5&pd_rd_w=eklbx&content-id=amzn1.sym.f2f1cf8f-cab4-44dc-82ba-0ca811fb90cc&pd_rd_r=c623e574-9606-43ae-a90f-a46c372b2fc1&s=pet-supplies&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM&th=1", "_blank", "noopener,noreferrer"),
+      affiliateLink: () => window.open("https://amzn.to/3QIIiAM", "_blank", "noopener,noreferrer"),
     },
     {
       id: 10,
@@ -194,7 +194,7 @@ import {
       image: "/squishfaceApplicator.png",
       rating: 4.4,
       categories: ["Pet Supplies", "Dog Eye Care"],
-      affiliateLink: () => window.open("https://www.amazon.com/Squishface-Flexible-Silicone-Wrinkle-Applicator/dp/B09XY4PDRJ/ref=sr_1_12?crid=WTB8SH12YZX0&dib=eyJ2IjoiMSJ9.ayY8rDUym3c5DEtqUxodiV6s_ZDCk_y8723fsLEF4XX953JNlGbHrALm-TPWCkBNWo2JZU9BO_-dC7Q2qphNhq0qKzibAZZWBoEd4ucesmSrvL8uq6l5dbxEEwIU-mhzSpT4GibV25iabGKSlgz9QTbifnMQYUrwH4n84Da-Vc9clIc9ngedKWJTrqm8tKDrTsSalCpS1YFsOWWxSv559Gb4KLItrBtx59fGbqSUlQ2JekgYauH3MjDEUnywql5wUs4F8UnR7RwFCt2DDYoqBfFwf-RQ00E1qTcqaV0Uwa6fiKnKKI37gmw6TC3G9E1TL5cgp2rDtHGgIfyMDs-r7x3ADkcuCNCN8Z-0C5WDTt8.Znp3vzSsNQ-Ag0FqDLthpKtJTYzmYrVCjcmLzZFdkvA&dib_tag=se&keywords=french+bulldog+wrinkle&qid=1740590890&s=pet-supplies&sprefix=french+bulldog+wrinkle%2Cpets%2C238&sr=1-12", "_blank", "noopener,noreferrer"),
+      affiliateLink: () => window.open("https://amzn.to/4iFaFft", "_blank", "noopener,noreferrer"),
     },
      {
       id: 11,
@@ -203,7 +203,7 @@ import {
       image: "/envyEyeWinkleCareKit.png",
       rating: 4.6,
       categories: ["Pet Supplies", "Dog Itch Remedies"],
-      affiliateLink: () => window.open("https://www.amazon.com/Eye-Envy-Bulldog-Wrinkle-Applicator/dp/B0CZ1WZQDC/ref=sr_1_17?crid=WTB8SH12YZX0&dib=eyJ2IjoiMSJ9.ayY8rDUym3c5DEtqUxodiV6s_ZDCk_y8723fsLEF4XX953JNlGbHrALm-TPWCkBNWo2JZU9BO_-dC7Q2qphNhq0qKzibAZZWBoEd4ucesmSrvL8uq6l5dbxEEwIU-mhzSpT4GibV25iabGKSlgz9QTbifnMQYUrwH4n84Da-Vc9clIc9ngedKWJTrqm8tKDrTsSalCpS1YFsOWWxSv559Gb4KLItrBtx59fGbqSUlQ2JekgYauH3MjDEUnywql5wUs4F8UnR7RwFCt2DDYoqBfFwf-RQ00E1qTcqaV0Uwa6fiKnKKI37gmw6TC3G9E1TL5cgp2rDtHGgIfyMDs-r7x3ADkcuCNCN8Z-0C5WDTt8.Znp3vzSsNQ-Ag0FqDLthpKtJTYzmYrVCjcmLzZFdkvA&dib_tag=se&keywords=french+bulldog+wrinkle&qid=1740590890&s=pet-supplies&sprefix=french+bulldog+wrinkle%2Cpets%2C238&sr=1-17", "_blank", "noopener,noreferrer"),
+      affiliateLink: () => window.open("https://amzn.to/4hXyCyD", "_blank", "noopener,noreferrer"),
     },
     {
       id: 12,
@@ -212,7 +212,7 @@ import {
       image: "/naturalDogCompanyShampoo.png",
       rating: 4.5,
       categories: ["Pet Supplies", "Dog Shampoos"],
-      affiliateLink: () => window.open("https://www.amazon.com/dp/B00W1QTLZG?ref=emc_p_m_5_i_atc&th=1", "_blank", "noopener,noreferrer"),
+      affiliateLink: () => window.open("https://amzn.to/41lMg7t", "_blank", "noopener,noreferrer"),
     },
   ];
   
